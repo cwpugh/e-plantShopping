@@ -4,6 +4,15 @@ body, h1, ul {
     padding: 0;
 }
 
+h1 {
+    text-align:center;
+    padding-top: 20px;
+
+    
+}
+
+
+
 /* Set a background color */
 body {
     font-family: Arial, sans-serif;
