@@ -31,7 +31,7 @@ const CartItem = ({ onContinueShopping }) => {
 
   const handleCheckout = () => {
     // Implement checkout logic here
-    alert('Proceeding to checkout');
+    alert('Checkout coming soon!');
   };
 
   return (
